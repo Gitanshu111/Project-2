@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: aqua;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: linear-gradient(#003cff, #ffff1c); */
+    flex-direction: column;
+    border: r;
+}
+p{
+    /* height: 100px; */
+    width: auto;
+    background-color: aquamarine ;
+    text-align: center;
+    font-size: 60px;
+    /* margin-top: 500px; */
+    box-shadow: 1px 1px 0px #000;
+
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.e{
+    text-align: center;
+            
+            font-family: 'Times New Roman', Times, serif;
+            font-size: large;
+}
+
+#datetime{
+    padding: 10px;
+            margin: 20px;
+            text-align: center;
+}
+#d{
+    height: 30px;
+            width: auto;  
+}
+
+.g{
+    height: 50px;
+    width: auto;  
+}
