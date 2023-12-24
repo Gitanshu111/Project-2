@@ -17,12 +17,5 @@ The countdown timer allows users to set a specific date and time, and it display
 
 The main functionality is implemented in the `startCountdown()` function, which calculates the time difference between the user-provided date-time and the current time. The countdown is updated every second until it reaches zero. The `gta()` function resets the timer and clears the input field.
 
-```javascript
-function startCountdown() {
-    // ... (your existing code)
-}
 
-function gta() {
-    // ... (your existing code)
-}
 
